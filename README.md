@@ -1,6 +1,6 @@
 # Welcome to Communicating Analyst Results: Visualizing Data Using Power BI
 
-Welcome to our project where we delve into AdventureWorks sales trends and gain insights through the lens of customer behavior.
+Welcome to my project where I delve into AdventureWorks sales trends and gain insights through the lens of customer behavior.
 
 ## Repository Contents:
 
@@ -21,7 +21,7 @@ In this interactive dashboard, you can analyze sales trends over the years from 
 
 ## Research Findings:
 
-During our analysis, we uncovered several key findings:
+During my analysis, I uncovered several key findings:
 
 1. **Breakthrough Year:** The year 2023 marked a significant milestone for the company, with the highest revenue generated (42 million in 2023) and the acquisition of the most new customers (10,000 in 2023).
    
