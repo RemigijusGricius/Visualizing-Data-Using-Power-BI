@@ -4,7 +4,7 @@ Welcome to my project where I delve into AdventureWorks sales trends and gain in
 
 ## Repository Contents:
 
-1. **ProjectModule2.1.pbix**: Power BI dashboard for sales analysis. If you don't have Power BI Desktop, you can view the report [here](link-to-report).
+1. **ProjectModule2.1.pbix**: Power BI dashboard for sales analysis.
 2. **SalesByCountriesForPareto.sql**: SQL query to create a table for Pareto chart.
 3. **CategoryTable.sql**: SQL query to gather product information and properties.
 4. **SalesOrderheader.sql**: SQL query to extract all necessary information for analysis from the original data table.
